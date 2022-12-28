@@ -9,10 +9,11 @@ Number of Attributes: 4 (including the class attribute)
 
 Attribute Information:
 
-Age of patient at time of operation (numerical)\
-Patient's year of operation (year - 1900, numerical)
-Number of positive axillary nodes detected (numerical)
-Survival status (class attribute)
-1 = the patient survived 5 years or longer
-2 = the patient died within 5 year
+Age of patient at time of operation (numerical_datatype)\
+Patient's year of operation (year - 1900, numerical_datatype)\
+Number of positive axillary nodes detected (numerical_datatype)\
+Survival status (class attribute)\
+1 = the patient survived 5 years or longer\
+2 = the patient died within 5 year\
+
 Missing Attribute Values: None
