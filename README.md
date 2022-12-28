@@ -14,6 +14,6 @@ Patient's year of operation (year - 1900, numerical_datatype)\
 Number of positive axillary nodes detected (numerical_datatype)\
 Survival status (class attribute)\
 1 = the patient survived 5 years or longer\
-2 = the patient died within 5 year\
+2 = the patient died within 5 year
 
 Missing Attribute Values: None
